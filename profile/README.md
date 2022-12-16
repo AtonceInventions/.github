@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Atonce Inventions
-
 ## About
 At Atonce Inventions, our mission is to predict the future by turning accidents into Inventions, the company provides world-class innovative inventions in the world of cybersecurity,and software Atonce Invention’s vision is distinct - To provide world-class cyber security & software inventions that provide value and global impact.
 
