@@ -5,7 +5,7 @@ At Atonce Inventions, our mission is to predict the future by turning accidents 
 
 Atonce Invention believes for every innovative Invention has some hidden core values, we call these values “Core of innovation”.
 
-- The team is happy the client is happy
+- The team is happy = perfection
 - Nothing is im(possible)
 - Curiosity is where Inventions are found
 - An Idea was never a bad idea
